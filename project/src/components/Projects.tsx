@@ -21,7 +21,7 @@ const Projects = () => {
       technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "JWT"],
       category: "full stack",
       github: "https://github.com/arushisingh967072/Shoping-Website-",
-      live: "https://your-ecommerce-demo.com"
+      // live: "https://your-ecommerce-demo.com"
     },
     {
       id: 2,
@@ -31,7 +31,7 @@ const Projects = () => {
       technologies: ["Mapbox","Leaflet.js","Fuse.js","React","Navigation"],
       category: "full stack",
       github: "https://github.com/arushisingh967072/College-Navigation-System",
-      live: "https://your-task-manager.com"
+      // live: "https://your-task-manager.com"
     },
     {
       id: 3,
@@ -51,7 +51,7 @@ const Projects = () => {
       technologies: ["React.js", "Tailwind CSS"],
       category: "frontend",
       github: "https://github.com/arushisingh967072/Portfolio",
-      live: "https://your-portfolio.com"
+      live: "https://arushisingh967072.github.io/Portfolio/"
     },
     {
       id: 5,
@@ -71,7 +71,7 @@ const Projects = () => {
       technologies: ["React.js", "Node.js", "MongoDB", "Spotify API", "Tailwind CSS"],
       category: "full stack",
       github: "https://github.com/arushisingh967072/Spotify-Clone",
-      live: "https://your-blog-platform.com"
+      // live: "https://your-blog-platform.com"
     }
   ];
 
