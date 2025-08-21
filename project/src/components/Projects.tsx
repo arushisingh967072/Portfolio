@@ -50,7 +50,7 @@ const Projects = () => {
       image: img1Pic,
       technologies: ["React.js", "Tailwind CSS"],
       category: "frontend",
-      github: "https://github.com/yourusername/portfolio",
+      github: "https://github.com/arushisingh967072/Portfolio",
       live: "https://your-portfolio.com"
     },
     {
