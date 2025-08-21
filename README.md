@@ -21,6 +21,10 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/arushisingh967072/Portfolio.git
+
+# Frontend Setup
 cd Portfolio/project
+npm install
+npm run dev
 
 
