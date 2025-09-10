@@ -14,16 +14,6 @@ const Projects = () => {
 
   const projects = [
     {
-      id: 1,
-      title: "E-Commerce Platform",
-      description: "A full-featured e-commerce website with cart functionality, user authentication, and payment integration.",
-      image: img6Pic,
-      technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "JWT"],
-      category: "full stack",
-      github: "https://github.com/arushisingh967072/Shoping-Website-",
-      // live: "https://your-ecommerce-demo.com"
-    },
-    {
       id: 2,
       title: "College Navigation System",
       description: "A web app offering seamless indoor/outdoor campus navigation with 3D maps using Mapbox and Leaflet.js. Features smart AI search with Fuse.js, live routing.",
@@ -31,7 +21,7 @@ const Projects = () => {
       technologies: ["Mapbox","Leaflet.js","Fuse.js","React","Navigation"],
       category: "full stack",
       github: "https://github.com/arushisingh967072/College-Navigation-System",
-      // live: "https://your-task-manager.com"
+      live: "https://college-navigation-1.onrender.com/"
     },
     {
       id: 3,
@@ -44,16 +34,6 @@ const Projects = () => {
       live: " https://arushisingh967072.github.io/Weather-Trackr/"
     },
     {
-      id: 4, 
-      title: "Portfolio Website",
-      description: "A personal portfolio website showcasing projects and skills. Features smooth animations and responsive design.",
-      image: img1Pic,
-      technologies: ["React.js", "Tailwind CSS"],
-      category: "frontend",
-      github: "https://github.com/arushisingh967072/Portfolio",
-      live: "https://arushisingh967072.github.io/Portfolio/"
-    },
-    {
       id: 5,
       title: "Food ordering Website",
       description: "A responsive food ordering website for browsing menus, placing orders, and making secure payments easily.",
@@ -64,6 +44,16 @@ const Projects = () => {
       live: " https://arushisingh967072.github.io/Food-Ordering-Website/"
     },
     {
+      id: 4, 
+      title: "Portfolio Website",
+      description: "A personal portfolio website showcasing projects and skills. Features smooth animations and responsive design.",
+      image: img1Pic,
+      technologies: ["React.js", "Tailwind CSS"],
+      category: "frontend",
+      github: "https://github.com/arushisingh967072/Portfolio",
+      live: "https://arushisingh967072.github.io/Portfolio/"
+    },
+    {
       id: 6,
       title: "Spotify Clone",
       description: "Created a web app for streaming music with real-time playback and playlist support.",
@@ -72,6 +62,16 @@ const Projects = () => {
       category: "full stack",
       github: "https://github.com/arushisingh967072/Spotify-Clone",
       // live: "https://your-blog-platform.com"
+    },
+    {
+      id: 1,
+      title: "E-Commerce Platform",
+      description: "A full-featured e-commerce website with cart functionality, user authentication, and payment integration.",
+      image: img6Pic,
+      technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "JWT"],
+      category: "full stack",
+      github: "https://github.com/arushisingh967072/Shoping-Website-",
+      // live: "https://your-ecommerce-demo.com"
     }
   ];
 
