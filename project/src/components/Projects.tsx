@@ -24,6 +24,16 @@ const Projects = () => {
       live: "https://college-navigation-1.onrender.com/"
     },
     {
+      id: 1,
+      title: "E-Commerce Platform",
+      description: "A full-featured e-commerce website with cart functionality, user authentication, and payment integration.",
+      image: img6Pic,
+      technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "JWT"],
+      category: "full stack",
+      github: "https://github.com/arushisingh967072/Shoping-Website-",
+      live: "https://ecommerce-frontend-latest-part.vercel.app/"
+    },
+    {
       id: 3,
       title: "Weather Dashboard",
       description: "A clean weather application that displays current conditions and forecasts. Features responsive design and API integration.",
@@ -62,16 +72,6 @@ const Projects = () => {
       category: "full stack",
       github: "https://github.com/arushisingh967072/Spotify-Clone",
       // live: "https://your-blog-platform.com"
-    },
-    {
-      id: 1,
-      title: "E-Commerce Platform",
-      description: "A full-featured e-commerce website with cart functionality, user authentication, and payment integration.",
-      image: img6Pic,
-      technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "JWT"],
-      category: "full stack",
-      github: "https://github.com/arushisingh967072/Shoping-Website-",
-      // live: "https://your-ecommerce-demo.com"
     }
   ];
 
